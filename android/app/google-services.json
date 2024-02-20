@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212557328546",
+    "project_id": "phone-number-otp-auth-86adc",
+    "storage_bucket": "phone-number-otp-auth-86adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212557328546:android:ae6792f2be05df503de7fb",
+        "android_client_info": {
+          "package_name": "com.example.phone_number_otp_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvkG_C_dQv5g9wAbVSvM2BgT-POISP7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
