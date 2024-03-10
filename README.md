@@ -1,1 +1,1 @@
-* OTP is sent to the phone number and OTP is verified.
+* An OTP has been successfully sent to your phone number, and the verification process has been completed.
